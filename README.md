@@ -1,1 +1,1 @@
-# Android_SimpleCounter_Kotlin_MVVM
+SimpleCounter_Kotlin_MVVM
